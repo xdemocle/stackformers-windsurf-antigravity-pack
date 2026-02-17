@@ -1,0 +1,29 @@
+{
+  "name": "stackformers-windsurf-antigravity-pack",
+  "description": "A cross-platform collection of AI Agent Skills by https://stackformers.cc",
+  "version": "0.0.1",
+  "author": "xdemocle",
+  "license": "MIT",
+  "homepage": "https://github.com/xdemocle/stackformers-windsurf-antigravity-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xdemocle/stackformers-windsurf-antigravity-pack.git"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "windsurf",
+    "codeium",
+    "agentic-ai",
+    "antigravity",
+    "windsurf-ai",
+    "antigravity-ai",
+    "agentskills"
+  ],
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
+}
